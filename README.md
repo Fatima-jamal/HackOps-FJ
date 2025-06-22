@@ -1,4 +1,4 @@
-# Multi-Stage Dockerized Java Login App – DevOps Final Year Project
+# Dockerized Java App
 
 This repository contains the complete codebase and infrastructure setup for deploying a secure, scalable, and production-ready Java Login Web Application using Docker and Terraform on AWS. It follows DevOps best practices with CI/CD automation, Infrastructure as Code (IaC), monitoring via Metabase, and domain-secured access using Route 53 and ACM.
 
